@@ -1,6 +1,6 @@
 ---
 data: 2025-10-13
-"UP:": "[[MOC - PROMPT MASTER]]"
+"UP:": "[[MOC - Prompt Master]]"
 tags:
   - prompt/fundamentals
   - prompt/best-practices

@@ -1,6 +1,6 @@
 ---
 data: 2025-10-13
-"UP:": "[[MOC - PROMPT MASTER|Prompt Engineering]]"
+"UP:": "[[MOC - Prompt Master|Prompt Engineering]]"
 tags:
   - prompt/advanced
   - AI/GPT
