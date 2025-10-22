@@ -1,6 +1,6 @@
 ---
 data: 2025-10-13
-"UP:": "[[MOC - Prompt Master]]"
+"UP:": "[[MOC - Pompt Master]]"
 tags:
   - prompt/fundamentals
   - prompt/best-practices
@@ -12,7 +12,7 @@ aliases:
 ---
 Status: #evergreen
 
-# The Fundamentals of Prompt Engineering
+# CONCEPT: The Fundamentals of Prompt Engineering
 
 > [!summary] Strategic Directive
 > This document is the foundational cornerstone for all prompt engineering work. It consolidates the essential, non-negotiable principles and components required to craft effective, reliable, and high-quality prompts. Mastery of these fundamentals is the prerequisite for any advanced technique.

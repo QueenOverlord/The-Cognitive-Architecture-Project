@@ -1,6 +1,6 @@
 ---
 data: 2025-10-13
-"UP:": "[[MOC - Prompt Master]]"
+"UP:": "[[MOC - Pompt Master]]"
 tags:
   - prompt/strategy
   - prompt/diagnostics
@@ -12,7 +12,7 @@ aliases:
 ---
 Status: #evergreen
 
-# The Prompt Strategy Matrix: A Field Manual for Tactical Application
+# CONCEPT: The Prompt Strategy Matrix: A Field Manual for Tactical Application
 
 > [!summary] Strategic Directive
 > This document is the missing link between knowing prompting techniques and mastering their application. It is a strategic framework for **diagnosing the nature of a problem** and mapping it to the most effective prompting architecture. This is not a list of techniques; it is a system for tactical decision-making.

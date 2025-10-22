@@ -1,6 +1,6 @@
 ---
 data: 2025-10-13
-"UP:": "[[MOC - Prompt Master]]"
+"UP:": "[[MOC - Pompt Master]]"
 tags:
   - prompt/philosophy
   - prompt/advanced
@@ -12,7 +12,7 @@ aliases:
 ---
 Status: #evergreen
 
-# Prompting as Cognitive Architecture
+# CONCEPT: Prompting as Cognitive Architecture
 
 > [!summary] The Paradigm Shift
 > Most prompt engineering focuses on *input*: "What should I tell the AI?" This note explores a more powerful, paradigm-shifting question: **"What cognitive pressure is my prompt putting on the model, and is that pressure aligned with the cognitive task I'm asking it to perform?"** This reframes prompting from giving instructions to designing a thought process.

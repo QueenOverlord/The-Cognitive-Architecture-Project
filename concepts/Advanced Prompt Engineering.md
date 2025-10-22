@@ -1,6 +1,6 @@
 ---
 data: 2025-10-13
-"UP:": "[[MOC - Prompt Master|Prompt Engineering]]"
+"UP:": "[[MOC - Pompt Master|Prompt Engineering]]"
 tags:
   - prompt/advanced
   - AI/GPT
@@ -12,7 +12,7 @@ aliases:
 ---
 Status: #evergreen
 
-# Advanced Prompt Engineering
+# CONCEP: Advanced Prompt Engineering
 
 > [!summary] Strategic Directive
 > This document moves beyond basic prompting. It is a dossier of **advanced meta-skills and cognitive techniques** for directing Large Language Models (LLMs). The goal is to shift from being an *operator* of the AI to an *architect* of its reasoning process, enabling the generation of complex, nuanced, and highly-structured outputs.
